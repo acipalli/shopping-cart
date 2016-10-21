@@ -1,0 +1,16 @@
+# Cruft
+.DS_Store
+.Trashes
+$RECYCLE_BUN/
+.tmp
+npm-debug.log
+Icon
+
+#Code / build
+coverage
+node_modules
+test
+webpack*
+.eslint*
+.editor*
+.travis*
